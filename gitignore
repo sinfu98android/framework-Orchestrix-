@@ -1,0 +1,22 @@
+# Ignore build and system files
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# IDE files
+*.vscode/
+*.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary or backup files
+*~
+*.bak
+
+# Ignore runtime auto-generated files
+runtime/build/
+runtime/bin/

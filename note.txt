@@ -1,0 +1,7 @@
+in my framework there is 2 folder code:
+1. html for web base ui, logging, analytic and erp(in progress)
+2. runtime c for collect data to machine, in this code using modbus RTU, modbus TCP, AND loadcell, Omron plc, Mitsubishi plc, and planning multi plc like Panasonic, siemens, allen bradley etc
+
+my framework is make management and machine production talk and collaborate together until tracking product output.
+
+

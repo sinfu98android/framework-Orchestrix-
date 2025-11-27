@@ -23,10 +23,10 @@ Modified memcached in block mode, it make ligher, now can run on transmeta tm570
 [📹  Demo Orchestrix video](https://youtu.be/Eg7EJ2VvO7A?si=pT2NqIGTcpKgFJns)
 
 
-### 📘 For full system details, diagrams, and architecture, read the  
-[📄  Orchestrix Technical Documentation (PDF)](https://github.com/sinfu98android/Orchestrix_main_framework/blob/66c5d8b0440f22ddd453a19fe0e4725532956b76/Orchestrix%20PHP%20Java%20(Web)_20251119_133539_0000.pdf)
+### Orchestrix System architecture
+![Orchestrix System Architecture](https://github.com/sinfu98android/Orchestrix_main_framework/blob/3aa2ca3bec2e0e87b0d01480732b17775e743065/Diagram/Orchestrix%20Framework%20Diagram.jpg)
+![Orchestrix Note](https://github.com/sinfu98android/Orchestrix_main_framework/blob/3aa2ca3bec2e0e87b0d01480732b17775e743065/Diagram/Orchestrix%20Note.jpg)
 <br>
-*Note : Github Sometimes cannot preview PDF file directly, please download to view.*
 
 
 ### Projects Built Using Orchestrix

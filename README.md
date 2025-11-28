@@ -12,11 +12,6 @@ Orchestrix is a lightweight, modular orchestration framework designed for real-t
 - 🔧 Minimal external dependencies and Brand Agnostic
 - 🔄 Suitable for embedded, real-time, and web-integrated systems
 
-### 🤝 Collaboration & Vision
-
-**Orchestrix** is a lightweight, modular orchestration framework for real-time systems. Future plans include ERP integration, AI-powered reporting, device tracking, and a 3D web-based UI. This is just the beginning—contact me to collaborate or invest in building the future.
-Modified memcached in block mode, it make lighter, now can run on transmeta tm5700, 1 core x86 800MHz
-
 ### 🎥 You can watch Orchestrix Lightweight Demo 
 ![  Demo Orchestrix video](https://github.com/sinfu98android/Orchestrix_main_framework/blob/31d4cd6517a878b103f89402098b928c8dcef923/Diagram/Demo%20Video%20Page)(https://youtu.be/Eg7EJ2VvO7A?si=pT2NqIGTcpKgFJns)
 <br>*In this video, I demonstrate Orchestrix running on an HP Compaq t5000, highlighting how lightweight the framework is.* <br> 
@@ -31,6 +26,12 @@ C/C++ | Automation | Linux | Embedded Communication | Embedded Firmware | HMI | 
 ### Projects Built Using Orchestrix
 [🔗  Batching Plant System link](https://github.com/sinfu98android/Orchestrix_BatchingPlant)<br>
 [🔗 HMI 3 servo motion control automation uses Orchestrix Framework](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation)
+
+### 🤝 Collaboration & Vision
+
+**Orchestrix** is a lightweight, modular orchestration framework for real-time systems. Future plans include ERP integration, AI-powered reporting, device tracking, and a 3D web-based UI. This is just the beginning—contact me to collaborate or invest in building the future.
+Modified memcached in block mode, it make lighter, now can run on transmeta tm5700, 1 core x86 800MHz
+
 
 ### Contact 
 [Linkedin - Yudi Hariyanto](https://www.linkedin.com/in/yudi-hariyanto-2732462a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>

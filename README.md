@@ -31,4 +31,9 @@ Modified memcached in block mode, it make ligher, now can run on transmeta tm570
 
 ### Projects Built Using Orchestrix
 [🔗  Batching Plant System link](https://github.com/sinfu98android/Orchestrix_BatchingPlant)
+[HMI 3 servo motion control automation uses Orchestrix Framework](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation)
+
+### Contact 
+[Linkedin link](https://www.linkedin.com/in/yudi-hariyanto-2732462a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>
+Feel free to contact for questions, collaborations, or technical discussion
 

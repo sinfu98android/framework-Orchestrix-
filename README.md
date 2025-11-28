@@ -25,7 +25,8 @@ Modified memcached in block mode, it make ligher, now can run on transmeta tm570
 ![Orchestrix System Architecture](https://github.com/sinfu98android/Orchestrix_main_framework/blob/3aa2ca3bec2e0e87b0d01480732b17775e743065/Diagram/Orchestrix%20Framework%20Diagram.jpg)
 ![Orchestrix Note](https://github.com/sinfu98android/Orchestrix_main_framework/blob/3aa2ca3bec2e0e87b0d01480732b17775e743065/Diagram/Orchestrix%20Note.jpg)
 <br>
-
+### Skills
+C/C++, Automation, Linux, Embedded Communication, Embedded firmware, HMI, R&D, Web & Runtime architecture, Software development, Programming, motion control
 
 ### Projects Built Using Orchestrix
 [🔗  Batching Plant System link](https://github.com/sinfu98android/Orchestrix_BatchingPlant)<br>

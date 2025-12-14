@@ -3,7 +3,7 @@
 Orchestrix is a lightweight, modular orchestration framework designed for real-time system integration. It is minimal in dependencies, highly scalable, and built with flexibility in mind. **I designed and built entirely from scratch.**
 
 ### ❗ This repository contains Orchestrix framework source code <br>
-[Orchestrix framework src](https://github.com/sinfu98android/Orchestrix_main_framework/tree/main/Source)
+[Orchestrix framework src](https://github.com/sinfu98android/Orchestrix_main_framework/tree/main/Source)<br><br>
 
 ### 🔑 Key Features
 
@@ -11,7 +11,11 @@ Orchestrix is a lightweight, modular orchestration framework designed for real-t
 - 🧱 Modular and scalable architecture
 - 🔧 Minimal external dependencies and Brand Agnostic
 - 🔄 Suitable for embedded, real-time, and web-integrated systems
-
+  <br>
+### Projects Built Using Orchestrix Framework 
+[🔗 Batching Plant System Link](https://github.com/sinfu98android/Orchestrix_BatchingPlant) <br>
+[🔗 HMI 3 servo motion control automation uses Orchestrix Framework](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation)<br>
+<br>
 ### 🎥 You can watch Orchestrix Lightweight Demo 
 ![  Demo Orchestrix video](https://github.com/sinfu98android/Orchestrix_main_framework/blob/31d4cd6517a878b103f89402098b928c8dcef923/Diagram/Demo%20Video%20Page)(https://youtu.be/Eg7EJ2VvO7A?si=pT2NqIGTcpKgFJns)
 <br>*In this video, I demonstrate Orchestrix running on an HP Compaq t5000, highlighting how lightweight the framework is.* <br> 
@@ -23,9 +27,6 @@ Orchestrix is a lightweight, modular orchestration framework designed for real-t
 ### Skills
 C/C++ | Automation | Linux | Embedded Communication | Embedded Firmware | HMI | R&D | Web & Runtime Architecture |Software development | Programming | motion control | RTOS
 
-### Projects Built Using Orchestrix
-[🔗  Batching Plant System link](https://github.com/sinfu98android/Orchestrix_BatchingPlant)<br>
-[🔗 HMI 3 servo motion control automation uses Orchestrix Framework](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation)
 
 ### 🤝 Collaboration & Vision
 

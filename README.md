@@ -5,6 +5,7 @@ Orchestrix is a lightweight, modular orchestration framework designed for real-t
 ### ❗ This repository contains Orchestrix framework source code <br>
 [Orchestrix framework src](https://github.com/sinfu98android/Orchestrix_main_framework/tree/main/Source)<br><br>
 
+
 ### 🔑 Key Features
 
 - ⚡ Fast and lightweight
@@ -12,6 +13,12 @@ Orchestrix is a lightweight, modular orchestration framework designed for real-t
 - 🔧 Minimal external dependencies and Brand Agnostic
 - 🔄 Suitable for embedded, real-time, and web-integrated systems
   <br>
+
+### 📊 Impact & Results
+- Before Orchestrix, complex industrial automation projects (e.g., batching plant systems) required ~2 weeks of development, even when repeating similar projects.<br>
+- Using Orchestrix as a reusable orchestration framework reduced development time to ~1 week by eliminating repeated orchestration and integration logic.<br>
+- Established a reusable, modular system architecture that improves development velocity, consistency, and scalability across projects.<br>
+
 ### Projects Built Using Orchestrix Framework 
 [🔗 Batching Plant System Link](https://github.com/sinfu98android/Orchestrix_BatchingPlant) <br>
 [🔗 HMI 3 servo motion control automation uses Orchestrix Framework](https://github.com/sinfu98android/3-Servo_Motion_Control_Automation)<br>

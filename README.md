@@ -5,6 +5,10 @@ Orchestrix is a lightweight, modular orchestration framework designed for real-t
 ### ❗ This repository contains Orchestrix framework source code <br>
 [Orchestrix framework src](https://github.com/sinfu98android/Orchestrix_main_framework/tree/main/Source)<br><br>
 
+### Architectural Background 
+My work on embedded operating systems and custom GUI stacks—spanning kernel development, memory management, interrupt handling, and event-driven execution—served as the architectural foundation for Orchestrix.<br>
+Orchestrix extends these principles beyond a single system, abstracting OS-level scheduling, resource ownership, and message passing into a framework designed for coordinating distributed components and services<br>
+[Link Custom Embedded OS](https://github.com/sinfu98android/Embedded-OS-and-GUI/blob/main/README.md)<br>
 
 ### 🔑 Key Features
 
